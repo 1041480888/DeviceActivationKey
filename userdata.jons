@@ -16,5 +16,11 @@
         "key": "rr.aj",
         "expirydate": "07-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b7e5f0e45a99350",
+        "key": "3336aj",
+        "expirydate": "07-08-2030",
+        "Allowoffline": false
     }
 ]
